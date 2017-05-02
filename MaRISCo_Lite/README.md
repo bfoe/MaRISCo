@@ -18,5 +18,5 @@
 &emsp;&emsp; <img src="../Screenshots/MaRISCo_Lite.jpg" alt="MaRISCo Startup" width="300" height="500">
 <br><br></p>
 <h2>License, References, Usage etc.:</h2>
-&emsp; see the main <a href="https://github.com/bfoe/MaRISCo/README.md">README</a>. 
+&emsp; see the main <a href="https://github.com/bfoe/MaRISCo">README</a>. 
 <br>

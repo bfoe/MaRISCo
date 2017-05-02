@@ -93,13 +93,13 @@
 &emsp; If your intention is purely educational go for one of the following:<br> 
 <br>
 &emsp; The MaRISCo_Lite version has a smaller footprint while maintaining the main functionality identical,<br>
-&emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/MaRISCo_Lite/README.md">README</a>, 
+&emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/tree/master/MaRISCo_Lite">README</a>, 
 there are standalone distributables for <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo.exe">Windows</a>
 and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_MacOS.zip">MacOS</a><br>
 &emsp; This version is basically code locked too.<br>
 <br>
 &emsp; The MaRISCo_Extended version aims to go beyond CSF/GM/WM segmentation,<br>
-&emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/MaRISCo_Extended/README.md">README</a>, 
+&emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/tree/master/MaRISCo_Extended">README</a>, 
 standalone distributables for <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_Extended.exe">Windows</a>
 and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_Extended_MacOS.zip">MacOS</a> coming up ...<br>
 <br>
