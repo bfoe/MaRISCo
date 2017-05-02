@@ -86,3 +86,20 @@
 &emsp; <b>ATTENTION:</b> For educational/investigational purposes only, not for clinical use!<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Simulation does not substitute acquisition of real images! <br></p>
 <br>
+<h2>Development status:</h2><p>
+&emsp; The MaRISCo sources in the root folder are code locked.<br>
+&emsp; No further improvements will be implemented, no standalone distributables are provided<br> 
+&emsp; This version is to quickly visualize segmentation results from different origins (FSL/SPM etc.).<br>
+&emsp; If your intention is purely educational go for one of the following:<br> 
+<br>
+&emsp; The MaRISCo_Lite version has a smaller footprint while maintaining the main functionality identical,<br>
+&emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/MaRISCo_Lite/README.md">README</a>, 
+there are standalone distributables for <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo.exe">Windows</a>
+and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_MacOS.zip">MacOS</a><br>
+&emsp; This version is basically code locked too.<br>
+<br>
+&emsp; The MaRISCo_Extended version aims to go beyond CSF/GM/WM segmentation,<br>
+&emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/MaRISCo_Extended/README.md">README</a>, 
+standalone distributables for <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_Extended.exe">Windows</a>
+and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_Extended_MacOS.zip">MacOS</a> coming up ...<br>
+<br>
