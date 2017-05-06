@@ -25,9 +25,9 @@
 <br>
 &emsp; the underlying MR data was derived from the <a href="http://nist.mni.mcgill.ca/?p=947">Colin 27 Average Brain</a> which includes the following license terms:<br>
 &emsp;&emsp; Copyright (C) 1993–2009 Louis Collins, McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University.<br>
-&emsp;&emsp; Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby<br>
-&emsp;&emsp; granted, provided that the above copyright notice appear in all copies. The authors and McGill University make no representations<br>
-&emsp;&emsp; about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty.<br>
-&emsp;&emsp; The authors are not responsible for any data loss, equipment damage, property loss, or injury to subjects or patients<br>
-&emsp;&emsp; resulting from the use or misuse of this software package.<br>
+&emsp;&emsp; Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is<br>
+&emsp;&emsp; hereby granted, provided that the above copyright notice appear in all copies. The authors and McGill University make no<br>
+&emsp;&emsp; representations about the suitability of this software for any purpose. It is provided “as is” without express or implied<br>
+&emsp;&emsp; warranty. The authors are not responsible for any data loss, equipment damage, property loss, or injury to subjects or<br>
+&emsp;&emsp; patients resulting from the use or misuse of this software package.<br>
 <br></p>
