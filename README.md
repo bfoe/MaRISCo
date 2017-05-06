@@ -100,6 +100,6 @@ and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_MacOS.zip">MacOS
 <br>
 &emsp; The MaRISCo_Extended version aims to go beyond CSF/GM/WM segmentation,<br>
 &emsp; for details see the <a href="https://github.com/bfoe/MaRISCo/tree/master/MaRISCo_Extended">README</a>, 
-standalone distributables for <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_Extended.exe">Windows</a>
-and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo_Extended_MacOS.zip">MacOS</a> coming up ...<br>
+standalone distributables for <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo-X.exe">Windows</a>
+and <a href="https://github.com/bfoe/MaRISCo/raw/master/MaRISCo-X_MacOS.zip">MacOS</a> coming up ...<br>
 <br>
